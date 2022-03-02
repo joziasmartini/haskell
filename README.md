@@ -1,6 +1,17 @@
 # haskell-studies
 Studies and algorithms in the Haskell language.
 
+### Introduction
+Haskell is a purely functional, general-purpose programming language named after the logician Haskell Curry. The language is based on the observations of Haskell Curry and his intellectual descendants.
+
+It is the functional language on which most research is carried out today. Widely used in academia, it is a relatively new language, derived from other functional languages, such as Miranda and ML.
+
+It is based on a programming style that emphasizes more what should be done (what) rather than how it should be done (how), with a focus on reaching solutions to mathematical problems, clarity, and easy maintenance in the codes. .
+
+In Haskell there are only functions, and all functions are unary. What in other programming languages ​​would be binary, ternary functions, etc., in Haskell are functions whose return value are other functions - what is called currying, a term derived from Haskell Curry.
+
+Excerpts taken from [Wikipedia](https://pt.wikipedia.org/wiki/Haskell_(linguagem_de_programa%C3%A7%C3%A3o)).
+
 ### Setup
 - Install [Visual Studio Code](https://code.visualstudio.com/Download)
 - Install [Haskell Syntax Highlighting](https://marketplace.visualstudio.com/items?itemName=justusadam.language-haskell) plugin
