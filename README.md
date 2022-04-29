@@ -1,5 +1,5 @@
-# haskell-studies
-Studies and algorithms in the Haskell language.
+# haskell
+Studies in Haskell.
 
 ### Introduction
 Haskell is a purely functional, general-purpose programming language named after the logician Haskell Curry. The language is based on the observations of Haskell Curry and his intellectual descendants.
