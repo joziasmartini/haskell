@@ -1,6 +1,7 @@
-# haskell
-
-Studies in Haskell.
+<div align="center">
+  <h1>Haskell</h1>
+  <p>Studies and algorithms in Haskell.<p>
+</div>
 
 ### Introduction
 
